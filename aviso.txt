@@ -1,0 +1,1 @@
+arquivos de pipeline serão criados para teste em programas python, por favor atualizar para versão python3.13
